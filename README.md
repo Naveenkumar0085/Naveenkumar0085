@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naveenkumar0085
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python fullstack
-- 💞️ I’m looking to collaborate
+- 🌱 I have completed python fullstack
+- 💞️ I’m looking for an job
 - 📫 How to reach me naveen1321311@gamil.com
 
 <!---
